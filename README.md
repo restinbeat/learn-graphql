@@ -1,4 +1,4 @@
-# learn-graphql
+# learn-springboot-graphql
 
 graphql study repo
 

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: learn-graphql
+    name: learn-springboot-graphql
 
   threads:
     virtual:

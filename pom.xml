@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>learn-graphql</artifactId>
+    <artifactId>learn-springboot-graphql</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>learn-graphql</name>
-    <description>learn-graphql</description>
+    <name>learn-springboot-graphql</name>
+    <description>learn-springboot-graphql</description>
     <url/>
     <licenses>
         <license/>
